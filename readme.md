@@ -1,8 +1,8 @@
 # Azure functions in Rust
 
-## Pre-requisites
+Template for a simple Azure Rust Function. Tested with Rust 1.6.
 
-Project tested with Rust v1.6X
+## Pre-requisites
 
 1. Install [Rustup](https://rustup.rs/) and use it to install Rust.
 2. Install [Azure Functions Core Tools](https://github.com/Azure/azure-functions-core-tools).
